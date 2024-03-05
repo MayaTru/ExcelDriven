@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T21:07:12 IST" name="Default suite" finished-at="2024-03-05T21:07:13 IST" duration-ms="1384">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T21:07:12 IST" name="Default test" finished-at="2024-03-05T21:07:13 IST" duration-ms="1384">
+      <class name="org.maya.ExcelDriven.DataProviderTest">
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.maya.ExcelDriven.DataProviderTest@33ecda92]" started-at="2024-03-05T21:07:13 IST" name="Test1" data-provider="drivertest" finished-at="2024-03-05T21:07:13 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LOne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LTwo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.maya.ExcelDriven.DataProviderTest@33ecda92]" started-at="2024-03-05T21:07:13 IST" name="Test1" data-provider="drivertest" finished-at="2024-03-05T21:07:13 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Purchase]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[POne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[PTwo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[22]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.maya.ExcelDriven.DataProviderTest@33ecda92]" started-at="2024-03-05T21:07:13 IST" name="Test1" data-provider="drivertest" finished-at="2024-03-05T21:07:13 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Checkout]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[COne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTwo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[33]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test1(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.maya.ExcelDriven.DataProviderTest@33ecda92]" started-at="2024-03-05T21:07:13 IST" name="Test1" data-provider="drivertest" finished-at="2024-03-05T21:07:13 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Logout]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LOOne]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LOTwo]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- org.maya.ExcelDriven.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
